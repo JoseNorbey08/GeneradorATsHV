@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Perfil ATS con IA",
+  "description": "Una aplicación que utiliza la IA de Gemini para analizar una vacante y una hoja de vida, generando contenido optimizado para ATS y publicaciones para redes profesionales, junto con imágenes personalizadas.",
+  "requestFramePermissions": []
+}
